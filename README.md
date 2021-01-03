@@ -1,17 +1,20 @@
 # BRACU Shout Out
 Our project “Bracu Shout-Out” has been created to make university life better in a orderly way for both bracu students and faculties. This is an well-controlled database for keeping the track of classes, sections and time schedules. Students and faculties can communicate with each other through this platform for any announcement or queries regarding the courses.  
 
+
 Developing Tools:
 1.	Front-End: Java JFrame/ Swing
 2.	Back-End: Java
 
-Features
+
+Features:
 1.	Authorization - Students and faculties can create new account. In order to log in to the shoutout , they have to verify their account.
 2.	Profile - Each students and faculties can view their profile and also they can edit. Their profile shows their name,id,department and the sections of which courses they have taken.  
 3.	Shoutbox - From the shoutbox,students can see any announcement courses. Also Faculties can see any queries regarding any course. It shows the messages for one week. This platform is a many to many independent messaging system. Each student and faculties can communicate with each other.
 4.	Search Box - by this we can find other students and faculties by their username.
 5.	Course Panel - Students can see the class schedules, sections of the courses they are enrolled with. Faculties can also see these of the courses they are going to instruct.
 6.	Comments - Students and faculties can comment regarding any course separately. 
+
 
 
 SQL Features:
